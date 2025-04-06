@@ -42,7 +42,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/yourusername/driver-drowsiness-detection.git
+git clone https://github.com/achyuthkumarsunkara/SleepDetectionAlarm/tree/main
 cd driver-drowsiness-detection
 Create and activate a virtual environment (recommended):
 
