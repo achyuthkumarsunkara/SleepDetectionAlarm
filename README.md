@@ -60,7 +60,7 @@ Download the alarm sound file (optional):
 
 bash
 Copy
-wget https://example.com/alarm.wav -O alarm.wav
+wget -O alarm.wav
 Or place your own alarm.wav file in the project directory
 
 Usage 🚀
@@ -68,7 +68,7 @@ Run the application:
 
 bash
 Copy
-python app.py
+sleep_detection_vehicle.py
 Open the web interface in your browser:
 
 Copy
@@ -98,7 +98,4 @@ Copy
 # Try specifying the exact version
 pip install mediapipe==0.10.0
 
-# Or use this alternative installation command
-python -m pip install mediapipe --pre
-For other issues, please check the MediaPipe documentation for the latest installation instructions.
 
