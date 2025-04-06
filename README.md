@@ -9,6 +9,8 @@ A real-time driver drowsiness detection system that uses computer vision and fac
 Prerequisites ⚠️
 Important: This project requires Python 3.10 as MediaPipe has compatibility requirements. Other versions may not work properly.
 Download Python 3.10:- https://apps.microsoft.com/detail/9PJPW5LDXLZ5?hl=en-us&gl=IN&ocid=pdpshare
+Full file:- https://drive.google.com/drive/folders/1_F1ynb7QoDFvmNVL5Xlu5sSyxjl_HMhb?usp=sharing
+
 Features ✨
 👁 Eye Aspect Ratio (EAR) calculation for precise drowsiness detection
 
